@@ -1,0 +1,10 @@
+# Sequencing data - too large for git, re-downloadable (see README)
+data/
+reference/
+
+# QC reports - generated output, not source
+qc/
+
+# OS files
+.DS_Store
+Thumbs.db
